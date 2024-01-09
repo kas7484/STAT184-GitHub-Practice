@@ -48,7 +48,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Sayali Phadke   | Section 001       | sayaliph            | https://github.com/sayaliph/test    |
-
+| Parsha Barnhart | Section 001       | parshabarnhart      |https://github.com/parshabarnhart/GitHub-Practice/edit/main/README.md |
 
 
 
