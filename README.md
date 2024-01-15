@@ -55,7 +55,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Nina Kuznicki     | Section 001       | nkuznicki            | https://github.com/nkuznicki/STAT184-GitHub-Practice/blob/master/README.md|
 | Katelyn Bailey  | Section 22411  | katelynebailey  | https://github.com/katelynebailey/STAT184  |  
 | David Cizek     | Section 001       | DaveCizek           | https://github.com/DaveCizek/first-repo |
-
+| Shane Smith       | Section 001       | smithdadd99          | https://github.com/smithdad99/STAT184-Smith|
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
