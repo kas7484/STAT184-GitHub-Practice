@@ -45,10 +45,10 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 
 # Class GitHub Table 
 
-| Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
-|:------------------|:------------------|:---------------------|:----------------------------------|  
-| Sayali Phadke   | Section 001       | sayaliph            | https://github.com/sayaliph/test    |
-
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo              |  
+|:------------------|:------------------|:---------------------|:-------------------------------------- |  
+| Sayali Phadke   | Section 001         | sayaliph             | https://github.com/sayaliph/test       |
+| Luis Gutierrez | Section 001          | LGutierrez70         |https://github.com/LGutierrez70/STAT184 |
 
 
 
