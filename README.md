@@ -1,4 +1,4 @@
-
+#zhaoyu hou / STAT184-GitHub-Practice,  this repo was forked from sayaliph
 # GitHub Setup and Practice Assignment
 This assignment involves multiple steps and will possibly use unfamiliar terminology. Go slowly, read and follow instructions carefully, and you will be alright!
 
@@ -49,10 +49,13 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 |:------------------|:------------------|:---------------------|:-------------------------------------|  
 | Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test     |
 | Khurram Wani      | Section 001       | ksw5502              | https://github.com/ksw5502/stat184_1 |
+| Ram Bharadwaj Gandikota   | Section 001       | rnkbharadwaj44           | https://github.com/rnkbharadwaj44/-vxg23-STAT184-GitHub-Practice    |
+| Luis Gutierrez | Section 001          | LGutierrez70         |https://github.com/LGutierrez70/STAT184 |
+| Dohee Kim       | Section 001       | dkim0517            | https://github.com/dkim0517/Any-Name-You-Choose.git |
 
-
-
-
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
+|:------------------|:------------------|:---------------------|:----------------------------------|  
+| zhaoyu hou   | Section 001       | zhaoyuhou            | https://github.com/zhaoyuhou/stat184hw1.git    |
 
 
 <br>
