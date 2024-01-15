@@ -48,6 +48,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Sayali Phadke   | Section 001       | sayaliph            | https://github.com/sayaliph/test    |
+| Ram Bharadwaj Gandikota   | Section 001       | rnkbharadwaj44           | https://github.com/rnkbharadwaj44/-vxg23-STAT184-GitHub-Practice    |
 
 
 
