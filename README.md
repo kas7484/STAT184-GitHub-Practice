@@ -56,9 +56,11 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Katelyn Bailey  | Section 22411  | katelynebailey  | https://github.com/katelynebailey/STAT184  |  
 | David Cizek     | Section 001       | DaveCizek           | https://github.com/DaveCizek/first-repo |
 | Shane Smith       | Section 001       | smithdadd99          | https://github.com/smithdad99/STAT184-Smith|
+| Saisarath Kanamrlapudi|Section 001|skanamar017|https://github.com/skanamar017/repo|
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
+| Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test  |
 | zhaoyu hou   | Section 001       | zhaoyuhou            | https://github.com/zhaoyuhou/stat184hw1.git    |
 
 
