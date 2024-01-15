@@ -1,4 +1,4 @@
-
+#zhaoyu hou / STAT184-GitHub-Practice,  this repo was forked from sayaliph
 # GitHub Setup and Practice Assignment
 This assignment involves multiple steps and will possibly use unfamiliar terminology. Go slowly, read and follow instructions carefully, and you will be alright!
 
@@ -50,7 +50,9 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Sayali Phadke   | Section 001       | sayaliph            | https://github.com/sayaliph/test    |
 
 
-
+| Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
+|:------------------|:------------------|:---------------------|:----------------------------------|  
+| zhaoyu hou   | Section 001       | zhaoyuhou            | https://github.com/zhaoyuhou/stat184hw1.git    |
 
 
 
