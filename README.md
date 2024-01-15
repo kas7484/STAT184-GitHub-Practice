@@ -57,10 +57,11 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | David Cizek     | Section 001       | DaveCizek           | https://github.com/DaveCizek/first-repo |
 | Shane Smith       | Section 001       | smithdadd99          | https://github.com/smithdad99/STAT184-Smith|
 | Saisarath Kanamrlapudi|Section 001|skanamar017|https://github.com/skanamar017/repo|
+| Gwyneth Jones   | Section 001       | lostinspaceee       | https://github.com/lostinspaceee/Test_1 |
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
-| Sayali Phadke     | Section 001       | sayaliph             | https://github.com/sayaliph/test  |
+| Sayali Phadke   | Section 001       | sayaliph            | https://github.com/sayaliph/test    |
 | zhaoyu hou   | Section 001       | zhaoyuhou            | https://github.com/zhaoyuhou/stat184hw1.git    |
 
 
