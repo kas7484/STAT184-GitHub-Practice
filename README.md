@@ -52,6 +52,8 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Ram Bharadwaj Gandikota   | Section 001       | rnkbharadwaj44           | https://github.com/rnkbharadwaj44/-vxg23-STAT184-GitHub-Practice    |
 | Luis Gutierrez | Section 001          | LGutierrez70         |https://github.com/LGutierrez70/STAT184 |
 | Dohee Kim       | Section 001       | dkim0517            | https://github.com/dkim0517/Any-Name-You-Choose.git |
+| Nina Kuznicki     | Section 001       | nkuznicki            | https://github.com/nkuznicki/STAT184-GitHub-Practice/blob/master/README.md|
+
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
