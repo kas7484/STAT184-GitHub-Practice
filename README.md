@@ -53,7 +53,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Luis Gutierrez | Section 001          | LGutierrez70         |https://github.com/LGutierrez70/STAT184 |
 | Dohee Kim       | Section 001       | dkim0517            | https://github.com/dkim0517/Any-Name-You-Choose.git |
 | Nina Kuznicki     | Section 001       | nkuznicki            | https://github.com/nkuznicki/STAT184-GitHub-Practice/blob/master/README.md|
-
+| Katelyn Bailey  | Section 22411  | katelynebailey  | https://github.com/katelynebailey/STAT184  |  
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
