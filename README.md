@@ -59,6 +59,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Saisarath Kanamrlapudi|Section 001|skanamar017|https://github.com/skanamar017/repo|
 | Gwyneth Jones   | Section 001       | lostinspaceee       | https://github.com/lostinspaceee/Test_1 |
 | Parsha Barnhart | Section 001       | parshabarnhart      |https://github.com/parshabarnhart/GitHub-Practice/edit/main/README.md |
+| Michael Ridgeway| Section 001       | RevRidge2020        |https://github.com/RevRidge2020/Practice?tab=readme-ov-file#practice|
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
