@@ -61,6 +61,7 @@ This assignment involves multiple steps and will possibly use unfamiliar termino
 | Parsha Barnhart | Section 001       | parshabarnhart      |https://github.com/parshabarnhart/GitHub-Practice/edit/main/README.md |
 | Akshat Agarwal  | Section 001       | Akshat17204         |https://github.com/Akshat17204/STAT184-GitHub-Practice.git
 | Michael Ridgeway| Section 001       | RevRidge2020        |https://github.com/RevRidge2020/Practice?tab=readme-ov-file#practice|
+| Krish Shah      | Section 001       | kas7484             |https://github.com/kas7484/STAT184-GitHub-Practice |    
 
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
